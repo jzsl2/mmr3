@@ -1,0 +1,85 @@
+#app {
+  margin-top: 20px;
+}
+.container {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  color: #fcf1f5;
+}
+
+.title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  color: white;
+}
+
+.info {
+  font-size: 12px;
+  margin-bottom: 50px;
+  color: red;
+  box-shadow: 10px;
+}
+
+.formInput {
+  margin: 0 auto;
+  float: none;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.btn {
+  box-shadow: none, !important;
+  margin-bottom: 20px;
+  background-color: #c7d4e6;
+  font: "roboto", sans-serif;
+  font-weight: bold;
+}
+
+.card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.cardImg {
+  object-fit: cover;
+}
+
+.card-text {
+  font-size: 20px;
+}
+
+.footerText {
+  font-size: 14px;
+  color: rgb(110, 110, 110);
+}
+
+.rankImg {
+  width: 200px;
+}
+body{
+  background-image:url(./imagem/zedslayers.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.mmr{
+
+  margin: auto;
+}
+ 
+.mmr-br{
+  font-family: "poppins", sans-serif;
+  font-weight: 900;
+  font-size: 60px;
+
+
+}
+.melhorar{
+  font-family: "poppins", sans-serif;
+  font-weight: 900;
+  font-size: 60px;
+}
