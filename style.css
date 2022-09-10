@@ -83,3 +83,10 @@ body{
   font-weight: 900;
   font-size: 60px;
 }
+
+.contador{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
