@@ -90,3 +90,13 @@ body{
   left: 0;
   right: 0;
 }
+
+.discordbla{
+width: 100px;
+height: 100px;
+position: fixed;
+bottom: 0;
+left: 0;
+  border-radius: 25px;
+}
+
