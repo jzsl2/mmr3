@@ -2,7 +2,7 @@ var app = new Vue({
   el: "#app",
   data () {
     return {
-      API_KEY: "RGAPI-"RGAPI-a1c4fd4d-4932-41ae-bacc-91ad0f72196a",
+      API_KEY: "RGAPI-"a1c4fd4d-4932-41ae-bacc-91ad0f72196a",
       IconCall: "",
       data : "",
       showCard: "",
